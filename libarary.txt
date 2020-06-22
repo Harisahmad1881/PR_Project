@@ -1,0 +1,8 @@
+scipy
+scipy.io
+skimage.io
+matplotlib.pyplot
+pandas
+seaborn
+numpy
+spectral
